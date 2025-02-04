@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js , Mern**
 
-- 👨‍💻 All of my projects are available at [https://md-khan-portfolio.vercel.app/](https://md-khan-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://md-khan-portfolio.vercel.app/](https://portfolio-md-khan.netlify.app/)]
 
 - 💬 Ask me about **React**
 
