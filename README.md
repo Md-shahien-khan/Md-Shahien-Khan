@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-shahien-khan" alt="md-shahien-khan" /></a> </p>
 
-- 🔭 I’m currently working on [Next Door Service](https://next-door-service.web.app/)
+- 🔭 I’m currently working on [Click & Cash](https://click-n-cash-e0801.web.app/)
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shawonkn58@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/shahien%20khan%20shawon/Downloads/MD%20SHAHIENKHAN%20(1).pdf](file:///C:/Users/shahien%20khan%20shawon/Downloads/MD%20SHAHIENKHAN%20(1).pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13WCZIRk5ueu5r_5A_bFY_YSnMcCor-9Q/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
