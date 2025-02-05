@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [[https://md-khan-portfolio.vercel.app/](https://portfolio-md-khan.netlify.app/)]
+- 👨‍💻 All of my projects are available at [https://github.com/Md-shahien-khan?tab=repositories]
 
 - 💬 Ask me about **React**
 
