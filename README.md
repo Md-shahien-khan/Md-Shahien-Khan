@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-shahien-khan" alt="md-shahien-khan" /></a> </p>
 
-- 🔭 I’m currently working on [Click & Cash](https://click-n-cash-e0801.web.app/)
+- 🔭 I’m currently working on [Edvio Ai Task Managment Website]([https://click-n-cash-e0801.web.app/](https://jade-horse-d72d87.netlify.app/))
 
 - 🌱 I’m currently learning **Next.js**
 
